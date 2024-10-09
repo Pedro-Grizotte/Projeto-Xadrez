@@ -1,0 +1,15 @@
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/bin/Debug/net7.0/console-chess
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/bin/Debug/net7.0/console-chess.deps.json
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/bin/Debug/net7.0/console-chess.runtimeconfig.json
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/bin/Debug/net7.0/console-chess.dll
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/bin/Debug/net7.0/console-chess.pdb
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/console-chess.csproj.AssemblyReference.cache
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/console-chess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/console-chess.AssemblyInfoInputs.cache
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/console-chess.AssemblyInfo.cs
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/console-chess.csproj.CoreCompileInputs.cache
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/console-chess.dll
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/refint/console-chess.dll
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/console-chess.pdb
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/console-chess.genruntimeconfig.cache
+/Users/pedrogrizotte/Repositories/Projeto xadrez/console-chess/console-chess/obj/Debug/net7.0/ref/console-chess.dll

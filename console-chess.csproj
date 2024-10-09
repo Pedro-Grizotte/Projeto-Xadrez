@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>console_chess</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Tabuleiro\" />
+    <None Remove="Chess\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tabuleiro\" />
+    <Folder Include="Chess\" />
+  </ItemGroup>
+</Project>
